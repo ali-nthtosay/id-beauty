@@ -4,7 +4,7 @@
             <v-sheet height="100%" style="background: transparent;">
                 <div class="d-flex fill-height justify-center align-end" :style="{
                     backgroundImage: `url(${images[i]})`,
-                    backgroundSize: ' contain',
+                    backgroundSize: ' cover',
                     backgroundPosition: 'center',
                 }">
                     <div class="white--text text-shadow responsive-text seo-carousel-text" style="
