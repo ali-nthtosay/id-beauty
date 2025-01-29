@@ -29,7 +29,7 @@ export default {
         return {
             images: [
                 '/carousel/image_5.jpg',
-                '/carousel/image_3.jpg',
+                '/carousel/image_13.jpg',
 
                 '/carousel/image_12.jpg',
                 '/carousel/image_11.jpg',
